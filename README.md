@@ -1,6 +1,6 @@
 # 👩🏼‍💻 Caroline Katsman
 
-**`Analista`** 
+**`Consultora de Dados e IA`** **`Analista`**
 
 Me chamo Caroline Katsman, sou natural do Paraná. Concluí o ensino superior, Engenharia de Bioprocessos e Biotecnologia na Universidade Tecnológica Federal do Paraná. Sou movida a organização e dados e publico meus projetos aqui. Compartilho meu conhecimento através do Instagram, com o perfil chamado "[Engenhocka](https://www.instagram.com/engenhocka/)", segue lá!
 
