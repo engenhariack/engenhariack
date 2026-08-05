@@ -11,37 +11,18 @@ Analista de Processos com formação em Engenharia de Bioprocessos e Biotecnolog
 ## 💡 Competências
 
 ### Gestão e Melhoria de Processos
-Levantamento de requisitos com clientes e usuários
-Condução de entrevistas e reuniões de diagnóstico
-Mapeamento de processos administrativos e operacionais
-Modelagem de processos AS IS e TO BE
-Documentação e padronização operacional
-Identificação de gargalos, desperdícios e oportunidades de melhoria
-Definição de planos de ação
-Apoio à transformação digital
+**`Levantamento de requisitos com clientes e usuários`** **`Condução de entrevistas e reuniões de diagnóstico`** **`Mapeamento de processos administrativos e operacionais`** **`Modelagem de processos AS IS e TO BE`** **`Documentação e padronização operacional`** **`Identificação de gargalos, desperdícios e oportunidades de melhoria`** **`Definição de planos de ação`** **`Apoio à transformação digital`**
 
 ### Processos e Dados
-Construção de indicadores (KPIs)
-Desenvolvimento de dashboards gerenciais
-Análise exploratória de dados
-Tratamento e organização de bases de dados
-Excel Avançado
-Power BI
-SQL (básico/intermediário)
+**`Construção de indicadores (KPIs)`** **`Desenvolvimento de dashboards gerenciais`** **`Análise exploratória de dados`** **`Tratamento e organização de bases de dados`** **`Excel Avançado`** **`Power BI`** **`SQL (intermediário)`** 
 
 ### Automação
-Automação utilizando Google Workspace
-Estruturação de fluxos digitais
-Aplicação de Inteligência Artificial em atividades operacionais
-Padronização documental
-Otimização de tarefas repetitivas
-Gestão de Projetos
-Planejamento das atividades
-Acompanhamento de cronogramas
-Organização das entregas
-Comunicação com stakeholders
-Elaboração de documentação técnica
-Apresentação de resultados
+**`Estruturação de fluxos digitais`** **`Automação utilizando Google Workspace`** **`Aplicação de Inteligência Artificial em atividades operacionais`** **`n8n`** **`Padronização documental`** **`Otimização de tarefas repetitivas`** 
+
+
+### Gestão de Projetos
+**`Planejamento das atividades`** **`Acompanhamento de cronogramas`** **`Organização das entregas`** **`Comunicação com stakeholders`** **`Elaboração de documentação técnica`** **`Apresentação de resultados`** 
+
 ---
 
 ## 📈 Linguagens e Tecnologias
@@ -72,14 +53,6 @@ Apresentação de resultados
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Matlab" 
-    title="Matlab"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" 
-/>
 
 <br/>
 <br/>
@@ -95,24 +68,3 @@ Apresentação de resultados
 💻 GitHub: [Engenhariack](https://github.com/engenhariack)
 
 📱 Instagram: [Engenhocka](https://www.instagram.com/engenhocka/)
-
-
-Estou aberta a oportunidades nas áreas de:
-
-Analista de Processos
-Engenharia de Processos
-Analista de Negócios
-Processos e Dados
-Melhoria Contínua
-Transformação Digital
-Business Process Management (BPM)
-
-
-Áreas de interesse
-Gestão de Processos
-Transformação Digital
-Business Intelligence
-Automação de Processos
-Excelência Operacional
-Melhoria Contínua
-Data Analytics
