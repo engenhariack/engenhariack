@@ -11,7 +11,9 @@ Analista de Processos com formação em Engenharia de Bioprocessos e Biotecnolog
 ## 📈 Linguagens e Tecnologias
 
 Avançado: **`Excel`** **`Google Sheets`** **`Power BI`** **`Pacote Office`** **`Canva`** **`IA generativa (ChatGPT, Gemini, Claude)`** **`Lean Manufacturing`** **`TPM`** **`5S`** **`Kanban`**  
+
 Intermediário: **`SQL`** **`BPMN`** **`AS IS/TO BE`** **`KPI`** **`n8n`** **`Python`** **`Miro`** **`DrawIo`** **`Microsoft Teams`** **`Notion`** **`ClickUp`** **`Trello`** **`PDCA`** **`SIPOC`** **`Diagrama de Ishikawa`** **`5 Porquês`** **`DMAIC`** **`5W2H`** **`Kaizen`**
+
 Familiaridade: **`Jira`** **`Slack`** **`Asana`** **`Google Classroom`** **`Moodle`** **`VSCode`** **`SAP ERP`** **`Hubspot CRM`**
 
 ---
