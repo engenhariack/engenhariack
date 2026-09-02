@@ -67,7 +67,7 @@ Familiaridade: **`Jira`** **`Slack`** **`Asana`** **`Google Classroom`** **`Mood
 
 📧 E-mail: carolkatsman@gmail.com
 
-💼 LinkedIn: [Caroline Katsman](www.linkedin.com/in/carolinekatsman-processos/)
+💼 LinkedIn: [Caroline Katsman](https://www.linkedin.com/in/carolinekatsman-processos/)
 
 💻 GitHub: [Engenhariack](https://github.com/engenhariack)
 
