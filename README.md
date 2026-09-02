@@ -1,6 +1,6 @@
 # 👩🏼‍💻 Caroline Katsman
 
-📍 Brasil | Disponibilidade para atuação remota
+📍 Brasil | Home Office
 
 **`Analista de Processos`** **`Melhoria Contínua`** **`Operações`** **`Back Office`** **`Transformação Digital`** **`KPI`** **`Dados`**
 
